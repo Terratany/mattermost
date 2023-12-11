@@ -85,7 +85,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Здається, Ваша електронна пошта Mattermost встановлена вірно!"
+    "translation": "Здається, Ваша електронна пошта  встановлена вірно!"
   },
   {
     "id": "api.admin.test_email.missing_server",
@@ -97,7 +97,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - Тестування налаштувань електронної пошти"
+    "translation": " - Тестування налаштувань електронної пошти"
   },
   {
     "id": "api.admin.test_s3.missing_s3_bucket",
@@ -345,7 +345,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Надішліть запрошення електронною поштою до команди Mattermost"
+    "translation": "Надішліть запрошення електронною поштою до команди "
   },
   {
     "id": "api.command.invite_people.email_invitations_off",
@@ -621,7 +621,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Відкрийте сторінку за допомогою Mattermost"
+    "translation": "Відкрийте сторінку за допомогою "
   },
   {
     "id": "api.command_help.name",
@@ -725,7 +725,7 @@
   },
   {
     "id": "api.command_logout.desc",
-    "translation": "Вийти з Mattermost"
+    "translation": "Вийти з "
   },
   {
     "id": "api.command_logout.name",
@@ -1533,11 +1533,11 @@
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing",
-    "translation": "Slack користувач об'єднано з існуючим користувачем Mattermost з відповідною електронною адресою {{.Email}} та ім'ям користувача {{.Username}}.\r\n"
+    "translation": "Slack користувач об'єднано з існуючим користувачем  з відповідною електронною адресою {{.Email}} та ім'ям користувача {{.Username}}.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.merge_existing_failed",
-    "translation": "Slack користувач об'єднався з існуючим користувачем Mattermost з відповідною електронною адресою {{.Email}} та ім'ям користувача {{.Username}}, але не зміг додати користувача до своєї команди.\r\n"
+    "translation": "Slack користувач об'єднався з існуючим користувачем  з відповідною електронною адресою {{.Email}} та ім'ям користувача {{.Username}}, але не зміг додати користувача до своєї команди.\r\n"
   },
   {
     "id": "api.slackimport.slack_add_users.missing_email_address",
@@ -1549,7 +1549,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Лог імпорту Mattermost Slack\r\n "
+    "translation": "Лог імпорту  Slack\r\n "
   },
   {
     "id": "api.slackimport.slack_import.note1",
@@ -3205,7 +3205,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Ваш обліковий запис AD/LDAP не має дозволу на використання цього сервера Mattermost. Будь ласка, зверніться до системного адміністратора, щоб перевірити фільтр користувачів AD/LDAP."
+    "translation": "Ваш обліковий запис AD/LDAP не має дозволу на використання цього сервера . Будь ласка, зверніться до системного адміністратора, щоб перевірити фільтр користувачів AD/LDAP."
   },
   {
     "id": "ent.ldap.do_login.user_not_registered.app_error",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Не вдалося знайти користувачів в AD/LDAP. Перевірте, чи сервер Mattermost може підключитися до вашого сервера AD/LDAP і повторіть спробу."
+    "translation": "Не вдалося знайти користувачів в AD/LDAP. Перевірте, чи сервер  може підключитися до вашого сервера AD/LDAP і повторіть спробу."
   },
   {
     "id": "ent.ldap.validate_filter.app_error",
@@ -3321,7 +3321,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Ім'я користувача, яке вже використовувалося іншим користувачем Mattermost."
+    "translation": "Ім'я користувача, яке вже використовувалося іншим користувачем ."
   },
   {
     "id": "ent.saml.attribute.app_error",
@@ -3421,7 +3421,7 @@
   },
   {
     "id": "mattermost.bulletin.subject",
-    "translation": "Бюлетень безпеки Mattermost"
+    "translation": "Бюлетень безпеки "
   },
   {
     "id": "mfa.activate.bad_token.app_error",
@@ -4573,7 +4573,7 @@
   },
   {
     "id": "oauth.gitlab.tos.error",
-    "translation": "Умови обслуговування GitLab оновлено. Будь ласка, заходьте на gitlab.com, щоб прийняти їх, а потім спробуйте знову увійти в Mattermost."
+    "translation": "Умови обслуговування GitLab оновлено. Будь ласка, заходьте на gitlab.com, щоб прийняти їх, а потім спробуйте знову увійти в ."
   },
   {
     "id": "plugin.api.update_user_status.bad_status",
@@ -4737,11 +4737,11 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "This version of your browser is no longer supported by Mattermost"
+    "translation": "This version of your browser is no longer supported by "
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "This browser is no longer supported by Mattermost"
+    "translation": "This browser is no longer supported by "
   },
   {
     "id": "web.error.unsupported_browser.min_os_version.windows",
@@ -4785,7 +4785,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Download the Mattermost app or use a supported browser for a better experience."
+    "translation": "Download the  app or use a supported browser for a better experience."
   },
   {
     "id": "web.error.unsupported_browser.download",
@@ -5549,7 +5549,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "Mattermost Enterprise license has been disabled."
+    "translation": " Enterprise license has been disabled."
   },
   {
     "id": "api.templates.remove_expired_license.body.title",
@@ -5777,7 +5777,7 @@
   },
   {
     "id": "api.bot.teams_channels.add_message_mobile",
-    "translation": "Please add me to teams and channels you want me to interact in. To do this, use the browser or Mattermost Desktop App."
+    "translation": "Please add me to teams and channels you want me to interact in. To do this, use the browser or  Desktop App."
   },
   {
     "id": "api.bot.create_disabled",
@@ -6757,7 +6757,7 @@
   },
   {
     "id": "api.server.warn_metric.bot_response.mailto_footer",
-    "translation": "Якщо у вас є додаткові питання, будь ласка, зв'яжіться з support@mattermost.com"
+    "translation": "Якщо у вас є додаткові питання, будь ласка, зв'яжіться з support@juris.live"
   },
   {
     "id": "api.server.warn_metric.bot_response.mailto_email_header",
@@ -6785,15 +6785,15 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.notification_title",
-    "translation": "Масштабування за допомогою Mattermost"
+    "translation": "Масштабування за допомогою "
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.notification_title",
-    "translation": "Масштабування за допомогою Mattermost"
+    "translation": "Масштабування за допомогою "
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.notification_title",
-    "translation": "Масштабування за допомогою Mattermost"
+    "translation": "Масштабування за допомогою "
   },
   {
     "id": "api.email.send_warn_metric_ack.failure.app_error",
