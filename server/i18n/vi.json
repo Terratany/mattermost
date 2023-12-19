@@ -442,7 +442,7 @@
     "translation": "Lỗi đọc tệp từ thư mục plugin trong kho lưu trữ tệp."
   },
   {
-    "id": "mattermost.bulletin.subject",
+    "id": "jurisLive.bulletin.subject",
     "translation": "Bản tin bảo mật tối đa"
   },
   {
@@ -559,7 +559,7 @@
   },
   {
     "id": "api.command_mute.no_channel.error",
-    "translation": "Không thể tìm thấy kênh chỉ định. Vui lòng sử dụng [xử lý kênh] (https://about.mattermost.com/default-channel-handle-documentation) để xác định các kênh."
+    "translation": "Không thể tìm thấy kênh chỉ định. Vui lòng sử dụng [xử lý kênh] (https://about.jurisLive.com/default-channel-handle-documentation) để xác định các kênh."
   },
   {
     "id": "api.user.upload_profile_user.storage.app_error",
@@ -779,7 +779,7 @@
   },
   {
     "id": "api.admin.test_email.body",
-    "translation": "Thông tin email tài khoản Mattermost của bạn đã được cấu hình chính xác!"
+    "translation": "Thông tin email tài khoản JurisLive của bạn đã được cấu hình chính xác!"
   },
   {
     "id": "api.channel.post_update_channel_displayname_message_and_forget.create_post.error",
@@ -897,7 +897,7 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support",
-    "translation": "Trình duyệt này không còn được Mattermost hỗ trợ"
+    "translation": "Trình duyệt này không còn được JurisLive hỗ trợ"
   },
   {
     "id": "api.user.update_active.not_enable.app_error",
@@ -1157,7 +1157,7 @@
   },
   {
     "id": "ent.ldap.do_login.user_filtered.app_error",
-    "translation": "Tài khoản AD / LDAP của bạn không có quyền sử dụng máy chủ Mattermost sever này. Vui lòng yêu cầu Quản trị viên hệ thống của bạn kiểm tra bộ lọc người dùng AD / LDAP."
+    "translation": "Tài khoản AD / LDAP của bạn không có quyền sử dụng máy chủ JurisLive sever này. Vui lòng yêu cầu Quản trị viên hệ thống của bạn kiểm tra bộ lọc người dùng AD / LDAP."
   },
   {
     "id": "api.status.user_not_found.app_error",
@@ -2847,7 +2847,7 @@
   },
   {
     "id": "api.admin.test_email.subject",
-    "translation": "Mattermost - Kiểm tra Cài đặt Email"
+    "translation": "JurisLive - Kiểm tra Cài đặt Email"
   },
   {
     "id": "api.channel.join_channel.post_and_forget",
@@ -3271,7 +3271,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure_size_exceeded.app_error",
-    "translation": "Vượt quá giới hạn kích thước. Hãy thử kiểm tra [kích thước trang tối đa] của bạn (https://docs.mattermost.com/deployment/sso-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded)."
+    "translation": "Vượt quá giới hạn kích thước. Hãy thử kiểm tra [kích thước trang tối đa] của bạn (https://docs.jurisLive.com/deployment/sso-ldap.html#i-see-the-log-error-ldap-result-code-4-size-limit-exceeded)."
   },
   {
     "id": "app.import.validate_channel_import_data.display_name_length.error",
@@ -3347,7 +3347,7 @@
   },
   {
     "id": "api.command_help.desc",
-    "translation": "Mở trang trợ giúp Mattermost"
+    "translation": "Mở trang trợ giúp JurisLive"
   },
   {
     "id": "api.team.set_team_icon.write_file.app_error",
@@ -3551,7 +3551,7 @@
   },
   {
     "id": "api.slackimport.slack_import.log",
-    "translation": "Nhật ký nhập Mattermost Slack\n"
+    "translation": "Nhật ký nhập JurisLive Slack\n"
   },
   {
     "id": "ent.account_migration.get_all_failed",
@@ -4103,7 +4103,7 @@
   },
   {
     "id": "web.error.unsupported_browser.download_app_or_upgrade_browser",
-    "translation": "Tải xuống Mattermost app hoặc dùng trình duyệt được hỗ trợ để có trải nghiệm tốt nhất."
+    "translation": "Tải xuống JurisLive app hoặc dùng trình duyệt được hỗ trợ để có trải nghiệm tốt nhất."
   },
   {
     "id": "model.cluster.is_valid.last_ping_at.app_error",
@@ -4523,7 +4523,7 @@
   },
   {
     "id": "api.command_invite.channel.error",
-    "translation": "Không thể tìm thấy kênh {{.Channel}}. Vui lòng sử dụng [xử lý kênh](https://about.mattermost.com/default-channel-handle-documentation) để xác định các kênh."
+    "translation": "Không thể tìm thấy kênh {{.Channel}}. Vui lòng sử dụng [xử lý kênh](https://about.jurisLive.com/default-channel-handle-documentation) để xác định các kênh."
   },
   {
     "id": "api.user.demote_user_to_guest.already_guest.app_error",
@@ -4575,7 +4575,7 @@
   },
   {
     "id": "web.error.unsupported_browser.no_longer_support_version",
-    "translation": "Phiên bản hiện tại của trình duyệt không còn được Mattermost hỗ trợ"
+    "translation": "Phiên bản hiện tại của trình duyệt không còn được JurisLive hỗ trợ"
   },
   {
     "id": "api.command_join.desc",
@@ -4665,7 +4665,7 @@
   },
   {
     "id": "api.command_mute.error",
-    "translation": "Không thể tìm thấy kênh {{.Channel}}. Vui lòng sử dụng [xử lý kênh] (https://about.mattermost.com/default-channel-handle-documentation) để xác định các kênh."
+    "translation": "Không thể tìm thấy kênh {{.Channel}}. Vui lòng sử dụng [xử lý kênh] (https://about.jurisLive.com/default-channel-handle-documentation) để xác định các kênh."
   },
   {
     "id": "api.user.ldap_to_email.not_ldap_account.app_error",
@@ -4717,7 +4717,7 @@
   },
   {
     "id": "ent.ldap.syncronize.search_failure.app_error",
-    "translation": "Không thể tìm kiếm người dùng trong AD / LDAP. Kiểm tra xem máy chủ Mattermost có thể kết nối với máy chủ AD / LDAP của bạn không và thử lại."
+    "translation": "Không thể tìm kiếm người dùng trong AD / LDAP. Kiểm tra xem máy chủ JurisLive có thể kết nối với máy chủ AD / LDAP của bạn không và thử lại."
   },
   {
     "id": "model.authorize.is_valid.expires.app_error",
@@ -5275,7 +5275,7 @@
   },
   {
     "id": "api.command.invite_people.desc",
-    "translation": "Gửi một email mời nhóm Mattermost của bạn"
+    "translation": "Gửi một email mời nhóm JurisLive của bạn"
   },
   {
     "id": "api.admin.ldap.not_available.app_error",
@@ -5483,7 +5483,7 @@
   },
   {
     "id": "ent.migration.migratetosaml.username_already_used_by_other_user",
-    "translation": "Tên người dùng đã được sử dụng bởi một người dùng Mattermost khác."
+    "translation": "Tên người dùng đã được sử dụng bởi một người dùng JurisLive khác."
   },
   {
     "id": "app.channel.create_direct_channel.internal_error",
@@ -5527,7 +5527,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.notification_title",
-    "translation": "Mở rộng quy mô với Mattermost"
+    "translation": "Mở rộng quy mô với JurisLive"
   },
   {
     "id": "api.team.invite_members.unable_to_send_email_with_defaults.app_error",
@@ -5571,15 +5571,15 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.notification_title",
-    "translation": "Mở rộng quy mô với Mattermost"
+    "translation": "Mở rộng quy mô với JurisLive"
   },
   {
     "id": "api.server.warn_metric.bot_response.notification_success.message",
-    "translation": "Cảm ơn bạn đã liên hệ với Mattermost. Chúng tôi sẽ liên hệ với bạn sớm nhất có thể."
+    "translation": "Cảm ơn bạn đã liên hệ với JurisLive. Chúng tôi sẽ liên hệ với bạn sớm nhất có thể."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.notification_title",
-    "translation": "Mở rộng quy mô với Mattermost"
+    "translation": "Mở rộng quy mô với JurisLive"
   },
   {
     "id": "api.channel.group_message.converted.to_private_channel",
@@ -5847,7 +5847,7 @@
   },
   {
     "id": "api.command_help.success",
-    "translation": "Matter Extreme là một nền tảng nguồn mở để liên lạc, cộng tác và điều phối công việc một cách an toàn giữa các công cụ và nhóm.\nMattermost chứa ba công cụ chính:\n\n**Kênh** - Luôn kết nối với nhóm của bạn thông qua nhắn tin 1:1 và nhóm.\n**[Playbooks](/playbooks)** - Xây dựng và định cấu hình các quy trình có thể lặp lại để đạt được kết quả cụ thể và có thể dự đoán được.\n**[Boards](/boards)** - Quản lý các dự án và nhiệm vụ theo cấu trúc bảng Kanban để giúp nhóm của bạn đạt được các cột mốc quan trọng.\n\n[Xem tài liệu và hướng dẫn]({{.HelpLink}})"
+    "translation": "Matter Extreme là một nền tảng nguồn mở để liên lạc, cộng tác và điều phối công việc một cách an toàn giữa các công cụ và nhóm.\nJurisLive chứa ba công cụ chính:\n\n**Kênh** - Luôn kết nối với nhóm của bạn thông qua nhắn tin 1:1 và nhóm.\n**[Playbooks](/playbooks)** - Xây dựng và định cấu hình các quy trình có thể lặp lại để đạt được kết quả cụ thể và có thể dự đoán được.\n**[Boards](/boards)** - Quản lý các dự án và nhiệm vụ theo cấu trúc bảng Kanban để giúp nhóm của bạn đạt được các cột mốc quan trọng.\n\n[Xem tài liệu và hướng dẫn]({{.HelpLink}})"
   },
   {
     "id": "api.cloud.delinquency_email.missing_email_to_trigger",
@@ -5931,7 +5931,7 @@
   },
   {
     "id": "api.command_remote.accept.help",
-    "translation": "Đông ý lời mời từ máy của Mattermost bên ngoài"
+    "translation": "Đông ý lời mời từ máy của JurisLive bên ngoài"
   },
   {
     "id": "api.command_remote.invitation.help",
@@ -6127,7 +6127,7 @@
   },
   {
     "id": "api.server.warn_metric.bot_response.mailto_subject",
-    "translation": "Mattermost Liên hệ với chúng tôi yêu cầu"
+    "translation": "JurisLive Liên hệ với chúng tôi yêu cầu"
   },
   {
     "id": "api.server.warn_metric.bot_response.notification_failure.body",
@@ -6167,7 +6167,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.contact_us.email_body",
-    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 100 người dùng và tôi đang xem xét Phiên bản Mattermost Enterprise.\n"
+    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 100 người dùng và tôi đang xem xét Phiên bản JurisLive Enterprise.\n"
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.start_trial.notification_success.message",
@@ -6175,7 +6175,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.contact_us.email_body",
-    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 200 người dùng và tôi đang xem xét Phiên bản Mattermost Enterprise.\n"
+    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 200 người dùng và tôi đang xem xét Phiên bản JurisLive Enterprise.\n"
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.start_trial.notification_success.message",
@@ -6187,7 +6187,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_300.start_trial.notification_body",
-    "translation": "Với rất nhiều cuộc trò chuyện diễn ra trên Matter Extreme, việc biết nơi tìm thông tin quan trọng có thể là một thách thức. Nếu bạn muốn phát thông báo tới nhiều khán giả, bạn có thể thiết lập Kênh thông báo chỉ đọc nơi bất kỳ ai cũng có thể tham gia nhưng chỉ quản trị viên kênh mới có thể đăng thông báo.\n\n[Tìm hiểu thêm về cách tạo Kênh thông báo chỉ đọc](https://www.mattermost.com/docs-channel-moderation/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=channel-moderation)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Với rất nhiều cuộc trò chuyện diễn ra trên Matter Extreme, việc biết nơi tìm thông tin quan trọng có thể là một thách thức. Nếu bạn muốn phát thông báo tới nhiều khán giả, bạn có thể thiết lập Kênh thông báo chỉ đọc nơi bất kỳ ai cũng có thể tham gia nhưng chỉ quản trị viên kênh mới có thể đăng thông báo.\n\n[Tìm hiểu thêm về cách tạo Kênh thông báo chỉ đọc](https://www.jurisLive.com/docs-channel-moderation/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=channel-moderation)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_300.start_trial.notification_success.message",
@@ -6199,7 +6199,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.contact_us.email_body",
-    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 500 người dùng và tôi đang xem xét Phiên bản Mattermost Enterprise.\n"
+    "translation": "Quan trọng nhất hãy liên hệ với chúng tôi theo yêu cầu. Nhóm của tôi hiện có 500 người dùng và tôi đang xem xét Phiên bản JurisLive Enterprise.\n"
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.start_trial.notification_success.message",
@@ -6235,7 +6235,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_teams_5.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn hiện có nhiều nhóm. Nhiều nhóm có cách điều phối và cộng tác ưa thích của riêng họ, bao gồm cách tạo kênh, ai có thể mời đồng đội mới và cách quản lý tích hợp. Lược đồ ghi đè nhóm cho phép bạn tùy chỉnh quyền của người dùng trong mỗi nhóm để đáp ứng nhu cầu cụ thể của họ.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.mattermost.com/docs-advanced-permissions-team-override/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=advanced-permissions-team-override).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Hệ thống Matter Extreme của bạn hiện có nhiều nhóm. Nhiều nhóm có cách điều phối và cộng tác ưa thích của riêng họ, bao gồm cách tạo kênh, ai có thể mời đồng đội mới và cách quản lý tích hợp. Lược đồ ghi đè nhóm cho phép bạn tùy chỉnh quyền của người dùng trong mỗi nhóm để đáp ứng nhu cầu cụ thể của họ.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.jurisLive.com/docs-advanced-permissions-team-override/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=advanced-permissions-team-override).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.number_of_teams_5.notification_title",
@@ -6351,11 +6351,11 @@
   },
   {
     "id": "api.templates.cloud_welcome_email.button",
-    "translation": "Mở Mattermost"
+    "translation": "Mở JurisLive"
   },
   {
     "id": "api.templates.cloud_welcome_email.download_mm_info",
-    "translation": "Tải ứng dụng Mattermost"
+    "translation": "Tải ứng dụng JurisLive"
   },
   {
     "id": "api.templates.cloud_welcome_email.info",
@@ -6411,7 +6411,7 @@
   },
   {
     "id": "api.templates.copyright",
-    "translation": "© 2021 Mattermost, Inc. 530 Đại lộ Lytton, Tầng hai, Palo Alto, CA, 94301"
+    "translation": "© 2021 JurisLive, Inc. 530 Đại lộ Lytton, Tầng hai, Palo Alto, CA, 94301"
   },
   {
     "id": "api.templates.delinquency_14.button",
@@ -6419,7 +6419,7 @@
   },
   {
     "id": "api.templates.delinquency_14.subject",
-    "translation": "Đã quá hạn thanh toán cho Mattermost {{.Plan}} của bạn"
+    "translation": "Đã quá hạn thanh toán cho JurisLive {{.Plan}} của bạn"
   },
   {
     "id": "api.templates.delinquency_14.subtitle1",
@@ -6487,7 +6487,7 @@
   },
   {
     "id": "api.templates.delinquency_60.title",
-    "translation": "Không gian làm việc Mattermost của bạn sẽ bị hạ cấp sau 30 ngày"
+    "translation": "Không gian làm việc JurisLive của bạn sẽ bị hạ cấp sau 30 ngày"
   },
   {
     "id": "api.templates.delinquency_7.button",
@@ -6511,11 +6511,11 @@
   },
   {
     "id": "api.templates.delinquency_75.subject",
-    "translation": "Mattermost {{.Plan}} của bạn sẽ bị hạ cấp sau 15 ngày"
+    "translation": "JurisLive {{.Plan}} của bạn sẽ bị hạ cấp sau 15 ngày"
   },
   {
     "id": "api.templates.delinquency_75.subtitle1",
-    "translation": "Đây là lời nhắc cuối cùng rằng chúng tôi chưa nhận được khoản thanh toán cho không gian làm việc Mattermost Cloud của bạn kể từ {{.DelinquencyDate}}."
+    "translation": "Đây là lời nhắc cuối cùng rằng chúng tôi chưa nhận được khoản thanh toán cho không gian làm việc JurisLive Cloud của bạn kể từ {{.DelinquencyDate}}."
   },
   {
     "id": "api.templates.delinquency_75.subtitle2",
@@ -6551,7 +6551,7 @@
   },
   {
     "id": "api.templates.delinquency_90.title",
-    "translation": "Không gian làm việc Mattermost của bạn đã bị hạ cấp"
+    "translation": "Không gian làm việc JurisLive của bạn đã bị hạ cấp"
   },
   {
     "id": "api.templates.email_us_anytime_at",
@@ -6559,7 +6559,7 @@
   },
   {
     "id": "api.templates.invite_body.subTitle",
-    "translation": "Bắt đầu cộng tác với nhóm của bạn trên Mattermost"
+    "translation": "Bắt đầu cộng tác với nhóm của bạn trên JurisLive"
   },
   {
     "id": "api.templates.invite_body_guest.subTitle",
@@ -6571,11 +6571,11 @@
   },
   {
     "id": "api.templates.invite_body_footer.info",
-    "translation": "Mattermost là một nền tảng nhắn tin mã nguồn mở, linh hoạt cho phép cộng tác nhóm một cách an toàn."
+    "translation": "JurisLive là một nền tảng nhắn tin mã nguồn mở, linh hoạt cho phép cộng tác nhóm một cách an toàn."
   },
   {
     "id": "api.templates.invite_body_footer.title",
-    "translation": "Mattermost là gì?"
+    "translation": "JurisLive là gì?"
   },
   {
     "id": "api.templates.license_up_for_renewal_renew_now",
@@ -6603,11 +6603,11 @@
   },
   {
     "id": "api.templates.license_up_for_renewal_title",
-    "translation": "Đăng ký Mattermost của bạn sắp được gia hạn"
+    "translation": "Đăng ký JurisLive của bạn sắp được gia hạn"
   },
   {
     "id": "api.templates.payment_failed.info1",
-    "translation": "Tổ chức tài chính của bạn đã từ chối khoản thanh toán từ {{.CardBrand}} ****{{.LastFour}} được liên kết với không gian làm việc Mattermost Cloud của bạn."
+    "translation": "Tổ chức tài chính của bạn đã từ chối khoản thanh toán từ {{.CardBrand}} ****{{.LastFour}} được liên kết với không gian làm việc JurisLive Cloud của bạn."
   },
   {
     "id": "api.templates.payment_failed.info2",
@@ -6631,7 +6631,7 @@
   },
   {
     "id": "api.templates.payment_failed_no_card.subject",
-    "translation": "Khoản thanh toán đến hạn cho đăng ký Mattermost Cloud của bạn"
+    "translation": "Khoản thanh toán đến hạn cho đăng ký JurisLive Cloud của bạn"
   },
   {
     "id": "api.templates.payment_failed_no_card.title",
@@ -6651,7 +6651,7 @@
   },
   {
     "id": "api.templates.remove_expired_license.subject",
-    "translation": "Giấy phép Mattermost Enterprise đã bị vô hiệu hóa."
+    "translation": "Giấy phép JurisLive Enterprise đã bị vô hiệu hóa."
   },
   {
     "id": "api.templates.reset_body.info",
@@ -6699,11 +6699,11 @@
   },
   {
     "id": "api.templates.warn_metric_ack.footer",
-    "translation": "Nếu bạn có bất kỳ thắc mắc nào khác, vui lòng liên hệ với support@mattermost.com"
+    "translation": "Nếu bạn có bất kỳ thắc mắc nào khác, vui lòng liên hệ với support@jurisLive.com"
   },
   {
     "id": "api.templates.warn_metric_ack.subject",
-    "translation": "Yêu cầu Mattermost liên hệ lại"
+    "translation": "Yêu cầu JurisLive liên hệ lại"
   },
   {
     "id": "api.templates.welcome_body.info1",
@@ -6719,51 +6719,51 @@
   },
   {
     "id": "api.server.warn_metric.bot_response.mailto_footer",
-    "translation": "Nếu bạn có bất kỳ thắc mắc nào khác, vui lòng liên hệ với support@mattermost.com"
+    "translation": "Nếu bạn có bất kỳ thắc mắc nào khác, vui lòng liên hệ với support@jurisLive.com"
   },
   {
     "id": "api.server.warn_metric.bot_response.start_trial_failure.message",
-    "translation": "Không thể lấy lại giấy phép dùng thử. Truy cập https://mattermost.com/trial/ để yêu cầu giấy phép."
+    "translation": "Không thể lấy lại giấy phép dùng thử. Truy cập https://jurisLive.com/trial/ để yêu cầu giấy phép."
   },
   {
     "id": "api.server.warn_metric.email_domain.notification_body",
-    "translation": "Các dự án thường có sự tham gia của mọi người cả bên trong và bên ngoài tổ chức. Với Tài khoản khách, bạn có thể đưa các đối tác bên ngoài vào hệ thống Matter Extreme của mình và chỉ định họ có thể làm việc cùng ai và họ có thể xem những gì.\n\n[Tìm hiểu thêm về cách bật Tài khoản khách](https://www.mattermost.com/docs-guest-accounts/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=guest-accounts).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Các dự án thường có sự tham gia của mọi người cả bên trong và bên ngoài tổ chức. Với Tài khoản khách, bạn có thể đưa các đối tác bên ngoài vào hệ thống Matter Extreme của mình và chỉ định họ có thể làm việc cùng ai và họ có thể xem những gì.\n\n[Tìm hiểu thêm về cách bật Tài khoản khách](https://www.jurisLive.com/docs-guest-accounts/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=guest-accounts).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.email_domain.start_trial.notification_body",
-    "translation": "Các dự án thường có sự tham gia của mọi người cả bên trong và bên ngoài tổ chức. Với Tài khoản khách, bạn có thể đưa các đối tác bên ngoài vào hệ thống Matter Extreme của mình và chỉ định họ có thể làm việc cùng ai và họ có thể xem những gì.\n\n[Tìm hiểu thêm về cách bật Tài khoản khách](https://www.mattermost.com/docs-guest-accounts/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=guest-accounts)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Các dự án thường có sự tham gia của mọi người cả bên trong và bên ngoài tổ chức. Với Tài khoản khách, bạn có thể đưa các đối tác bên ngoài vào hệ thống Matter Extreme của mình và chỉ định họ có thể làm việc cùng ai và họ có thể xem những gì.\n\n[Tìm hiểu thêm về cách bật Tài khoản khách](https://www.jurisLive.com/docs-guest-accounts/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=guest-accounts)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn có hơn 100 người dùng. Khi cơ sở người dùng của bạn tăng lên, việc cấp phép tài khoản mới có thể trở nên tốn thời gian. Chúng tôi khuyên bạn nên tích hợp Active Directory/LDAP của tổ chức mình để cho phép bất kỳ ai có tài khoản đều có thể truy cập Matter Extreme.\n\n[Tìm hiểu thêm về cách tích hợp với AD/LDAP](https://www.mattermost.com/docs-adldap/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=adldap)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Hệ thống Matter Extreme của bạn có hơn 100 người dùng. Khi cơ sở người dùng của bạn tăng lên, việc cấp phép tài khoản mới có thể trở nên tốn thời gian. Chúng tôi khuyên bạn nên tích hợp Active Directory/LDAP của tổ chức mình để cho phép bất kỳ ai có tài khoản đều có thể truy cập Matter Extreme.\n\n[Tìm hiểu thêm về cách tích hợp với AD/LDAP](https://www.jurisLive.com/docs-adldap/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=adldap)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.mfa.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn đã bật xác thực đa yếu tố, cho phép người dùng lựa chọn bảo mật tài khoản của họ bằng các phương tiện xác thực bổ sung ngoài mật khẩu. Để nâng cao tính bảo mật trên toàn hệ thống, bạn có thể yêu cầu tất cả tài khoản Matter Extreme sử dụng xác thực đa yếu tố.\n\n[Tìm hiểu thêm về cách thực thi Xác thực đa yếu tố](https://www.mattermost.com/docs-multi-factor-authentication/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=multi-factor-authentication).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Hệ thống Matter Extreme của bạn đã bật xác thực đa yếu tố, cho phép người dùng lựa chọn bảo mật tài khoản của họ bằng các phương tiện xác thực bổ sung ngoài mật khẩu. Để nâng cao tính bảo mật trên toàn hệ thống, bạn có thể yêu cầu tất cả tài khoản Matter Extreme sử dụng xác thực đa yếu tố.\n\n[Tìm hiểu thêm về cách thực thi Xác thực đa yếu tố](https://www.jurisLive.com/docs-multi-factor-authentication/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=multi-factor-authentication).\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.mfa.start_trial.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn đã bật xác thực đa yếu tố, cho phép người dùng lựa chọn bảo mật tài khoản của họ bằng các phương tiện xác thực bổ sung ngoài mật khẩu. Để nâng cao tính bảo mật trên toàn hệ thống, bạn có thể yêu cầu tất cả tài khoản Matter Extreme sử dụng xác thực đa yếu tố.\n\n[Tìm hiểu thêm về cách thực thi Xác thực đa yếu tố](https://www.mattermost.com/docs-multi-factor-authentication/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=multi-factor-authentication)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Hệ thống Matter Extreme của bạn đã bật xác thực đa yếu tố, cho phép người dùng lựa chọn bảo mật tài khoản của họ bằng các phương tiện xác thực bổ sung ngoài mật khẩu. Để nâng cao tính bảo mật trên toàn hệ thống, bạn có thể yêu cầu tất cả tài khoản Matter Extreme sử dụng xác thực đa yếu tố.\n\n[Tìm hiểu thêm về cách thực thi Xác thực đa yếu tố](https://www.jurisLive.com/docs-multi-factor-authentication/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=multi-factor-authentication)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_100.start_trial.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn có hơn 100 người dùng. Khi cơ sở người dùng của bạn tăng lên, việc cấp phép tài khoản mới có thể trở nên tốn thời gian. Chúng tôi khuyên bạn nên tích hợp Active Directory/LDAP của tổ chức mình để cho phép bất kỳ ai có tài khoản đều có thể truy cập Matter Extreme.\n\n[Tìm hiểu thêm về cách tích hợp với AD/LDAP](https://www.mattermost.com/docs-adldap/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=adldap)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Hệ thống Matter Extreme của bạn có hơn 100 người dùng. Khi cơ sở người dùng của bạn tăng lên, việc cấp phép tài khoản mới có thể trở nên tốn thời gian. Chúng tôi khuyên bạn nên tích hợp Active Directory/LDAP của tổ chức mình để cho phép bất kỳ ai có tài khoản đều có thể truy cập Matter Extreme.\n\n[Tìm hiểu thêm về cách tích hợp với AD/LDAP](https://www.jurisLive.com/docs-adldap/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=adldap)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn hiện có 200 người dùng. Khi bạn kết nối Matter Extreme với nhà cung cấp dịch vụ đăng nhập một lần trong tổ chức của mình, người dùng có thể truy cập Matter Extreme mà không cần phải nhập lại thông tin đăng nhập của họ. Chúng tôi khuyên bạn nên tích hợp nhà cung cấp SAML 2.0 với máy chủ Mattermost của mình.[Tìm hiểu thêm về cách tích hợp với SAML 2.0](https://www.mattermost.com/docs-saml/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=saml) .\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Hệ thống Matter Extreme của bạn hiện có 200 người dùng. Khi bạn kết nối Matter Extreme với nhà cung cấp dịch vụ đăng nhập một lần trong tổ chức của mình, người dùng có thể truy cập Matter Extreme mà không cần phải nhập lại thông tin đăng nhập của họ. Chúng tôi khuyên bạn nên tích hợp nhà cung cấp SAML 2.0 với máy chủ JurisLive của mình.[Tìm hiểu thêm về cách tích hợp với SAML 2.0](https://www.jurisLive.com/docs-saml/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=saml) .\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_200.start_trial.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn hiện có 200 người dùng. Khi bạn kết nối Matter Extreme với nhà cung cấp dịch vụ đăng nhập một lần trong tổ chức của mình, người dùng có thể truy cập Matter Extreme mà không cần phải nhập lại thông tin đăng nhập của họ. Chúng tôi khuyên bạn nên tích hợp nhà cung cấp SAML 2.0 với máy chủ Mattermost của mình.[Tìm hiểu thêm về cách tích hợp với SAML 2.0](https://www.mattermost.com/docs-saml/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=saml)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Hệ thống Matter Extreme của bạn hiện có 200 người dùng. Khi bạn kết nối Matter Extreme với nhà cung cấp dịch vụ đăng nhập một lần trong tổ chức của mình, người dùng có thể truy cập Matter Extreme mà không cần phải nhập lại thông tin đăng nhập của họ. Chúng tôi khuyên bạn nên tích hợp nhà cung cấp SAML 2.0 với máy chủ JurisLive của mình.[Tìm hiểu thêm về cách tích hợp với SAML 2.0](https://www.jurisLive.com/docs-saml/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=saml)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_300.notification_body",
-    "translation": "Với rất nhiều cuộc trò chuyện diễn ra trên Matter Extreme, việc biết nơi tìm thông tin quan trọng có thể là một thách thức. Nếu bạn muốn phát thông báo tới nhiều khán giả, bạn có thể thiết lập Kênh thông báo chỉ đọc nơi bất kỳ ai cũng có thể tham gia nhưng chỉ quản trị viên kênh mới có thể đăng thông báo.\n\n[Tìm hiểu thêm về cách tạo Kênh thông báo chỉ đọc](https://www.mattermost.com/docs-channel-moderation/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=channel-moderation)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Với rất nhiều cuộc trò chuyện diễn ra trên Matter Extreme, việc biết nơi tìm thông tin quan trọng có thể là một thách thức. Nếu bạn muốn phát thông báo tới nhiều khán giả, bạn có thể thiết lập Kênh thông báo chỉ đọc nơi bất kỳ ai cũng có thể tham gia nhưng chỉ quản trị viên kênh mới có thể đăng thông báo.\n\n[Tìm hiểu thêm về cách tạo Kênh thông báo chỉ đọc](https://www.jurisLive.com/docs-channel-moderation/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=channel-moderation)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.templates.delinquency_30.subtitle1",
-    "translation": "Bạn có thời gian để duy trì hoạt động Mattermost {{.Plan}} của mình nhưng bạn sẽ cần giải quyết các vấn đề với phương thức thanh toán của mình."
+    "translation": "Bạn có thời gian để duy trì hoạt động JurisLive {{.Plan}} của mình nhưng bạn sẽ cần giải quyết các vấn đề với phương thức thanh toán của mình."
   },
   {
     "id": "api.templates.delinquency_7.subtitle2",
@@ -6771,11 +6771,11 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.notification_body",
-    "translation": "Mattermost đặc biệt khuyến nghị việc triển khai trên 500 người dùng nên tận dụng các tính năng như quản lý người dùng, phân cụm máy chủ và giám sát hiệu suất. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "JurisLive đặc biệt khuyến nghị việc triển khai trên 500 người dùng nên tận dụng các tính năng như quản lý người dùng, phân cụm máy chủ và giám sát hiệu suất. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.templates.delinquency_45.subject",
-    "translation": "Lưu ý: Mattermost {{.Plan}} của bạn sẽ sớm bị hạ cấp"
+    "translation": "Lưu ý: JurisLive {{.Plan}} của bạn sẽ sớm bị hạ cấp"
   },
   {
     "id": "api.templates.delinquency_90.subtitle1",
@@ -6783,7 +6783,7 @@
   },
   {
     "id": "api.server.warn_metric.number_of_active_users_500.start_trial.notification_body",
-    "translation": "Mattermost đặc biệt khuyến nghị việc triển khai trên 500 người dùng nên tận dụng các tính năng như quản lý người dùng, phân cụm máy chủ và giám sát hiệu suất. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "JurisLive đặc biệt khuyến nghị việc triển khai trên 500 người dùng nên tận dụng các tính năng như quản lý người dùng, phân cụm máy chủ và giám sát hiệu suất. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.templates.delinquency_45.subtitle2",
@@ -6791,11 +6791,11 @@
   },
   {
     "id": "api.templates.email_footer_v2",
-    "translation": "© 2022 Mattermost, Inc. 530 Đại lộ Lytton, Tầng hai, Palo Alto, CA, 94301"
+    "translation": "© 2022 JurisLive, Inc. 530 Đại lộ Lytton, Tầng hai, Palo Alto, CA, 94301"
   },
   {
     "id": "api.server.warn_metric.number_of_channels_50.notification_body",
-    "translation": "Các kênh giúp cải thiện khả năng giao tiếp nhưng với việc người dùng trên khắp các kênh tham gia và tạo các kênh Matter Extreme, thách thức trong việc giữ cho hệ thống luôn ngăn nắp sẽ tăng lên. Quyền nâng cao cho phép bạn đặt người dùng hoặc vai trò nào có thể thực hiện một số hành động nhất định, bao gồm quản lý cài đặt kênh và thành viên, sử dụng @channel hoặc @here để gắn thẻ các nhóm người dùng rộng rãi và tạo webhook mới.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.mattermost.com/docs-advanced-permissions/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=advanced-permissions)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Các kênh giúp cải thiện khả năng giao tiếp nhưng với việc người dùng trên khắp các kênh tham gia và tạo các kênh Matter Extreme, thách thức trong việc giữ cho hệ thống luôn ngăn nắp sẽ tăng lên. Quyền nâng cao cho phép bạn đặt người dùng hoặc vai trò nào có thể thực hiện một số hành động nhất định, bao gồm quản lý cài đặt kênh và thành viên, sử dụng @channel hoặc @here để gắn thẻ các nhóm người dùng rộng rãi và tạo webhook mới.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.jurisLive.com/docs-advanced-permissions/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=advanced-permissions)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.templates.delinquency_60.subtitle1",
@@ -6807,27 +6807,27 @@
   },
   {
     "id": "api.server.warn_metric.number_of_channels_50.start_trial.notification_body",
-    "translation": "Các kênh giúp cải thiện khả năng giao tiếp nhưng với việc người dùng trên khắp các kênh tham gia và tạo các kênh Matter Extreme, thách thức trong việc giữ cho hệ thống luôn ngăn nắp sẽ tăng lên. Quyền nâng cao cho phép bạn đặt người dùng hoặc vai trò nào có thể thực hiện một số hành động nhất định, bao gồm quản lý cài đặt kênh và thành viên, sử dụng @channel hoặc @here để gắn thẻ các nhóm người dùng rộng rãi và tạo webhook mới.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.mattermost.com/docs-advanced-permissions/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=advanced-permissions)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Các kênh giúp cải thiện khả năng giao tiếp nhưng với việc người dùng trên khắp các kênh tham gia và tạo các kênh Matter Extreme, thách thức trong việc giữ cho hệ thống luôn ngăn nắp sẽ tăng lên. Quyền nâng cao cho phép bạn đặt người dùng hoặc vai trò nào có thể thực hiện một số hành động nhất định, bao gồm quản lý cài đặt kênh và thành viên, sử dụng @channel hoặc @here để gắn thẻ các nhóm người dùng rộng rãi và tạo webhook mới.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.jurisLive.com/docs-advanced-permissions/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=advanced-permissions)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.templates.license_up_for_renewal_subtitle",
-    "translation": "{{.UserName}}, đăng ký của bạn sẽ hết hạn sau {{.Days}} ngày. Chúng tôi hy vọng bạn đang trải nghiệm sự cộng tác nhóm linh hoạt và an toàn mà Mattermost mang lại. Hãy sớm gia hạn để đảm bảo nhóm của bạn có thể tiếp tục tận hưởng những lợi ích này."
+    "translation": "{{.UserName}}, đăng ký của bạn sẽ hết hạn sau {{.Days}} ngày. Chúng tôi hy vọng bạn đang trải nghiệm sự cộng tác nhóm linh hoạt và an toàn mà JurisLive mang lại. Hãy sớm gia hạn để đảm bảo nhóm của bạn có thể tiếp tục tận hưởng những lợi ích này."
   },
   {
     "id": "api.server.warn_metric.number_of_posts_2M.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn có số lượng tin nhắn lớn. Tìm kiếm cơ sở dữ liệu Matter Extreme mặc định bắt đầu hiển thị sự suy giảm hiệu suất ở khoảng 2,5 triệu bài đăng. Với hơn 5 triệu bài đăng, Elaticsearch có thể giúp tránh các vấn đề đáng kể về hiệu suất, chẳng hạn như thời gian chờ, với tìm kiếm và lượt đề cập. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\n[Tìm hiểu thêm về cách cải thiện hiệu suất](https://www.mattermost.com/docs-elasticsearch/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=elasticsearch)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với Mattermost, Inc. [Tìm hiểu thêm](https://mattermost.com/pl/default-admin-advisory)"
+    "translation": "Hệ thống Matter Extreme của bạn có số lượng tin nhắn lớn. Tìm kiếm cơ sở dữ liệu Matter Extreme mặc định bắt đầu hiển thị sự suy giảm hiệu suất ở khoảng 2,5 triệu bài đăng. Với hơn 5 triệu bài đăng, Elaticsearch có thể giúp tránh các vấn đề đáng kể về hiệu suất, chẳng hạn như thời gian chờ, với tìm kiếm và lượt đề cập. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\n[Tìm hiểu thêm về cách cải thiện hiệu suất](https://www.jurisLive.com/docs-elasticsearch/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=elasticsearch)\n\nBằng cách nhấp vào Liên hệ với chúng tôi, bạn sẽ chia sẻ thông tin của mình với JurisLive, Inc. [Tìm hiểu thêm](https://jurisLive.com/pl/default-admin-advisory)"
   },
   {
     "id": "api.server.warn_metric.number_of_posts_2M.start_trial.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn có số lượng tin nhắn lớn. Tìm kiếm cơ sở dữ liệu Matter Extreme mặc định bắt đầu hiển thị sự suy giảm hiệu suất ở khoảng 2,5 triệu bài đăng. Với hơn 5 triệu bài đăng, Elaticsearch có thể giúp tránh các vấn đề đáng kể về hiệu suất, chẳng hạn như thời gian chờ, với tìm kiếm và lượt đề cập. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\n[Tìm hiểu thêm về cách cải thiện hiệu suất](https://www.mattermost.com/docs-elasticsearch/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=elasticsearch)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Hệ thống Matter Extreme của bạn có số lượng tin nhắn lớn. Tìm kiếm cơ sở dữ liệu Matter Extreme mặc định bắt đầu hiển thị sự suy giảm hiệu suất ở khoảng 2,5 triệu bài đăng. Với hơn 5 triệu bài đăng, Elaticsearch có thể giúp tránh các vấn đề đáng kể về hiệu suất, chẳng hạn như thời gian chờ, với tìm kiếm và lượt đề cập. Hãy liên hệ với chúng tôi để tìm hiểu thêm và cho chúng tôi biết cách chúng tôi có thể trợ giúp.\n\n[Tìm hiểu thêm về cách cải thiện hiệu suất](https://www.jurisLive.com/docs-elasticsearch/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=elasticsearch)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.templates.payment_failed.info3",
-    "translation": "Để đảm bảo quyền truy cập không bị gián đoạn vào Matter Extreme {{.Plan}}, vui lòng liên hệ với tổ chức tài chính của bạn để khắc phục sự cố cơ bản hoặc cập nhật thông tin thanh toán của bạn. Sau khi thông tin thanh toán được cập nhật, Mattermost sẽ cố gắng giải quyết mọi số dư chưa thanh toán."
+    "translation": "Để đảm bảo quyền truy cập không bị gián đoạn vào Matter Extreme {{.Plan}}, vui lòng liên hệ với tổ chức tài chính của bạn để khắc phục sự cố cơ bản hoặc cập nhật thông tin thanh toán của bạn. Sau khi thông tin thanh toán được cập nhật, JurisLive sẽ cố gắng giải quyết mọi số dư chưa thanh toán."
   },
   {
     "id": "api.server.warn_metric.number_of_teams_5.start_trial.notification_body",
-    "translation": "Hệ thống Matter Extreme của bạn hiện có nhiều nhóm. Nhiều nhóm có cách điều phối và cộng tác ưa thích của riêng họ, bao gồm cách tạo kênh, ai có thể mời đồng đội mới và cách quản lý tích hợp. Lược đồ ghi đè nhóm cho phép bạn tùy chỉnh quyền của người dùng trong mỗi nhóm để đáp ứng nhu cầu cụ thể của họ.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.mattermost.com/docs-advanced-permissions-team-override/?utm_medium=product&utm_source=mattermost-advisor-bot&utm_content=advanced-permissions-team-override)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://mattermost.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://mattermost.com/pl/privacy-policy /) và nhận email sản phẩm."
+    "translation": "Hệ thống Matter Extreme của bạn hiện có nhiều nhóm. Nhiều nhóm có cách điều phối và cộng tác ưa thích của riêng họ, bao gồm cách tạo kênh, ai có thể mời đồng đội mới và cách quản lý tích hợp. Lược đồ ghi đè nhóm cho phép bạn tùy chỉnh quyền của người dùng trong mỗi nhóm để đáp ứng nhu cầu cụ thể của họ.\n\n[Tìm hiểu thêm về cách sử dụng Quyền nâng cao](https://www.jurisLive.com/docs-advanced-permissions-team-override/?utm_medium=product&utm_source=jurisLive-advisor-bot&utm_content=advanced-permissions-team-override)\n\nBằng cách nhấp vào Bắt đầu dùng thử, tôi đồng ý với [Thỏa thuận đánh giá phần mềm quan trọng nhất](https://jurisLive.com/software-evaluation-agreement/), [Chính sách quyền riêng tư](https://jurisLive.com/pl/privacy-policy /) và nhận email sản phẩm."
   },
   {
     "id": "api.templates.payment_failed_no_card.info1",
@@ -6895,7 +6895,7 @@
   },
   {
     "id": "app.notification.footer.infoLogin",
-    "translation": "Đăng nhập vào Mattermost"
+    "translation": "Đăng nhập vào JurisLive"
   },
   {
     "id": "app.notification.footer.title",
@@ -7111,7 +7111,7 @@
   },
   {
     "id": "app.system.warn_metric.bot_displayname",
-    "translation": "Cố vấn của Mattermost"
+    "translation": "Cố vấn của JurisLive"
   },
   {
     "id": "app.system.get_onboarding_request.app_error",
@@ -7827,7 +7827,7 @@
   },
   {
     "id": "api.file.cloud_upload.app_error",
-    "translation": "Tải lên qua mmctl lên phiên bản Đám mây không được hỗ trợ. Vui lòng kiểm tra tài liệu tại đây: https://docs.mattermost.com/manage/cloud-data-export.html."
+    "translation": "Tải lên qua mmctl lên phiên bản Đám mây không được hỗ trợ. Vui lòng kiểm tra tài liệu tại đây: https://docs.jurisLive.com/manage/cloud-data-export.html."
   },
   {
     "id": "api.file.file_exists.app_error",
@@ -7959,7 +7959,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Không thể áp dụng giấy phép dùng thử mới. Trước đây, bạn đã đăng ký giấy phép dùng thử cho phiên bản Matter Extreme này. Nếu bạn muốn kéo dài thời gian dùng thử, vui lòng [liên hệ với nhóm bán hàng của chúng tôi](https://mattermost.com/contact-us/)."
+    "translation": "Không thể áp dụng giấy phép dùng thử mới. Trước đây, bạn đã đăng ký giấy phép dùng thử cho phiên bản Matter Extreme này. Nếu bạn muốn kéo dài thời gian dùng thử, vui lòng [liên hệ với nhóm bán hàng của chúng tôi](https://jurisLive.com/contact-us/)."
   },
   {
     "id": "api.license.request_renewal_link.app_error",
@@ -7971,15 +7971,15 @@
   },
   {
     "id": "api.license.request_trial_license.app_error",
-    "translation": "Không thể nhận được giấy phép dùng thử, vui lòng thử lại hoặc liên hệ với support@mattermost.com."
+    "translation": "Không thể nhận được giấy phép dùng thử, vui lòng thử lại hoặc liên hệ với support@jurisLive.com."
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Chúng tôi không thể xử lý yêu cầu do những hạn chế đối với các quốc gia bị cấm vận. [Tìm hiểu thêm trong tài liệu của chúng tôi](https://mattermost.com/pl/limitations-for-embargoed-countries) hoặc liên hệ với legal@mattermost.com nếu có câu hỏi xung quanh các hạn chế xuất khẩu."
+    "translation": "Chúng tôi không thể xử lý yêu cầu do những hạn chế đối với các quốc gia bị cấm vận. [Tìm hiểu thêm trong tài liệu của chúng tôi](https://jurisLive.com/pl/limitations-for-embargoed-countries) hoặc liên hệ với legal@jurisLive.com nếu có câu hỏi xung quanh các hạn chế xuất khẩu."
   },
   {
     "id": "api.license.request_trial_license.fail_get_user_count.app_error",
-    "translation": "Không thể nhận được giấy phép dùng thử, vui lòng thử lại hoặc liên hệ với support@mattermost.com. Không thể có được số lượng người dùng đã đăng ký."
+    "translation": "Không thể nhận được giấy phép dùng thử, vui lòng thử lại hoặc liên hệ với support@jurisLive.com. Không thể có được số lượng người dùng đã đăng ký."
   },
   {
     "id": "api.license.true_up_review.create_error",
@@ -8931,7 +8931,7 @@
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user.app_error",
-    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.MattermostUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:\n\n```\nchown {{.MattermostUsername}} \"{{.Path}}\"\n```\n\nSau khi thay đổi quyền truy cập tệp, hãy thử nâng cấp lại Matter Extreme. Khi bạn đã nâng cấp và khởi động lại, hãy nhớ khôi phục quyền truy cập tệp nhị phân ban đầu:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\""
+    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.JurisLiveUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:\n\n```\nchown {{.JurisLiveUsername}} \"{{.Path}}\"\n```\n\nSau khi thay đổi quyền truy cập tệp, hãy thử nâng cấp lại Matter Extreme. Khi bạn đã nâng cấp và khởi động lại, hãy nhớ khôi phục quyền truy cập tệp nhị phân ban đầu:\n\n```\nchown {{.FileUsername}} \"{{.Path}}\""
   },
   {
     "id": "model.plugin_command_error.error.app_error",
@@ -8947,7 +8947,7 @@
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-user-and-permission.app_error",
-    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.MattermostUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:"
+    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.JurisLiveUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:"
   },
   {
     "id": "api.user.autocomplete_users.missing_team_id.app_error",
@@ -9002,8 +9002,8 @@
     "translation": "Danh sách email trống"
   },
   {
-    "id": "model.oauth.is_valid.mattermost_app_id.app_error",
-    "translation": "Độ dài tối đa của MattermostAppID là 32 ký tự."
+    "id": "model.oauth.is_valid.jurisLive_app_id.app_error",
+    "translation": "Độ dài tối đa của JurisLiveAppID là 32 ký tự."
   },
   {
     "id": "api.user.delete_channel.not_enabled.app_error",
@@ -9263,7 +9263,7 @@
   },
   {
     "id": "app.bot.get_disable_bot_sysadmin_message",
-    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} đã bị vô hiệu hóa. Họ quản lý các tài khoản bot sau đây hiện đã bị vô hiệu hóa.\n\n{{.BotNames}}{{else}}{{.UserName}} đã bị vô hiệu hóa. Họ quản lý các tài khoản bot {{.NumBots}} hiện đã bị vô hiệu hóa, bao gồm:\n\n{{.BotNames}}{{end}}Bạn có thể sở hữu từng bot bằng cách bật nó tại **Tích hợp > Tài khoản Bot** và tạo mã thông báo mới cho bot.\n\nĐể biết thêm thông tin, hãy xem [tài liệu](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled) của chúng tôi .{{else}}{{if .printAllBots}}{{.UserName}} đã bị vô hiệu hóa. Họ đã quản lý các tài khoản bot sau vẫn được kích hoạt.\n\n{{.BotNames}}\n{{else}}{{.UserName}} đã bị vô hiệu hóa. Họ đã quản lý các tài khoản bot {{.NumBots}} vẫn được kích hoạt, bao gồm những tài khoản sau:\n\n{{.BotNames}}{{end}}Chúng tôi đặc biệt khuyên bạn nên sở hữu từng bot bằng cách bật lại bot đó tại **Tích hợp > Tài khoản Bot** và tạo mã thông báo mới cho bot.\n\nĐể biết thêm thông tin, hãy xem [tài liệu](https://docs.mattermost.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled) của chúng tôi .\n\nNếu bạn muốn tài khoản bot tự động vô hiệu hóa sau khi chủ sở hữu vô hiệu hóa, hãy đặt “Vô hiệu hóa tài khoản bot khi chủ sở hữu bị vô hiệu hóa” trong **Bảng điều khiển hệ thống > Tích hợp > Tài khoản Bot** thành đúng.{{end}}"
+    "translation": "{{if .disableBotsSetting}}{{if .printAllBots}}{{.UserName}} đã bị vô hiệu hóa. Họ quản lý các tài khoản bot sau đây hiện đã bị vô hiệu hóa.\n\n{{.BotNames}}{{else}}{{.UserName}} đã bị vô hiệu hóa. Họ quản lý các tài khoản bot {{.NumBots}} hiện đã bị vô hiệu hóa, bao gồm:\n\n{{.BotNames}}{{end}}Bạn có thể sở hữu từng bot bằng cách bật nó tại **Tích hợp > Tài khoản Bot** và tạo mã thông báo mới cho bot.\n\nĐể biết thêm thông tin, hãy xem [tài liệu](https://docs.jurisLive.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled) của chúng tôi .{{else}}{{if .printAllBots}}{{.UserName}} đã bị vô hiệu hóa. Họ đã quản lý các tài khoản bot sau vẫn được kích hoạt.\n\n{{.BotNames}}\n{{else}}{{.UserName}} đã bị vô hiệu hóa. Họ đã quản lý các tài khoản bot {{.NumBots}} vẫn được kích hoạt, bao gồm những tài khoản sau:\n\n{{.BotNames}}{{end}}Chúng tôi đặc biệt khuyên bạn nên sở hữu từng bot bằng cách bật lại bot đó tại **Tích hợp > Tài khoản Bot** và tạo mã thông báo mới cho bot.\n\nĐể biết thêm thông tin, hãy xem [tài liệu](https://docs.jurisLive.com/developer/bot-accounts.html#what-happens-when-a-user-who-owns-bot-accounts-is-disabled) của chúng tôi .\n\nNếu bạn muốn tài khoản bot tự động vô hiệu hóa sau khi chủ sở hữu vô hiệu hóa, hãy đặt “Vô hiệu hóa tài khoản bot khi chủ sở hữu bị vô hiệu hóa” trong **Bảng điều khiển hệ thống > Tích hợp > Tài khoản Bot** thành đúng.{{end}}"
   },
   {
     "id": "app.user.get_by_auth.missing_account.app_error",
@@ -9379,7 +9379,7 @@
   },
   {
     "id": "api.upgrade_to_enterprise.invalid-permission.app_error",
-    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.MattermostUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nSau khi thay đổi quyền truy cập tệp, hãy thử nâng cấp lại Matter Extreme. Khi bạn đã nâng cấp và khởi động lại, hãy nhớ khôi phục quyền truy cập tệp nhị phân ban đầu:\n\n```\nchmod -w \"{{.Path}}\"\n```"
+    "translation": "Matter Extreme không thể nâng cấp lên Phiên bản doanh nghiệp. Người dùng hệ thống Matter Extreme {{.JurisLiveUsername}} không có quyền ghi vào tệp nhị phân cần thiết. Quản trị viên hệ thống có thể cập nhật quyền của tệp bằng cách thực hiện lệnh sau trên máy chủ nơi Matter Extreme được cài đặt:\n\n```\nchmod +w \"{{.Path}}\"\n```\n\nSau khi thay đổi quyền truy cập tệp, hãy thử nâng cấp lại Matter Extreme. Khi bạn đã nâng cấp và khởi động lại, hãy nhớ khôi phục quyền truy cập tệp nhị phân ban đầu:\n\n```\nchmod -w \"{{.Path}}\"\n```"
   },
   {
     "id": "app.admin.saml.failure_read_response_body_from_idp.app_error",
