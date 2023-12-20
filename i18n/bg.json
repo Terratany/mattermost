@@ -4121,7 +4121,7 @@
   },
   {
     "id": "api.templates.copyright",
-    "translation": "© 2021 , Inc. 530 Lytton Avenue, втори етаж, Пало Алто, Калифорния, 94301"
+    "translation": "api.templates.copyright"
   },
   {
     "id": "api.team.update_team_scheme.scheme_scope.error",
