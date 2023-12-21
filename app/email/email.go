@@ -72,7 +72,7 @@ func (es *Service) SendEmailChangeVerifyEmail(newUserEmail, locale, siteURL, tok
 	data.Props["QuestionTitle"] = T("api.templates.questions_footer.title")
 	data.Props["EmailInfo1"] = T("api.templates.email_us_anytime_at")
 	data.Props["SupportEmail"] = "feedback@mattermost.com"
-	data.Props["FooterV2"] = T("api.templates.email_footer_v2")
+	data.Props["FooterV2"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("email_change_verify_body", data)
 	if err != nil {
@@ -787,7 +787,7 @@ func (es *Service) NewEmailTemplateData(locale string) templates.Data {
 				map[string]any{"SiteName": es.config().TeamSettings.SiteName}),
 			"SupportEmail": *es.config().SupportSettings.SupportEmail,
 			"Footer":       localT("api.templates.email_footer"),
-			"FooterV2":     localT("api.templates.email_footer_v2"),
+			"FooterV2":     "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS",
 			"Organization": organization,
 		},
 		HTML: map[string]template.HTML{},
@@ -999,7 +999,7 @@ func (es *Service) SendPaymentFailedEmail(email string, locale string, failedPay
 	data.Props["IncludeSecondaryActionButton"] = false
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("payment_failed_body", data)
 	if err != nil {
@@ -1026,7 +1026,7 @@ func (es *Service) SendNoCardPaymentFailedEmail(email string, locale string, sit
 	data.Props["Button"] = T("api.templates.payment_failed_no_card.button")
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("payment_failed_no_card_body", data)
 	if err != nil {
@@ -1056,7 +1056,7 @@ func (es *Service) SendDelinquencyEmail7(email, locale, siteURL, planName string
 	data.Props["Button"] = T("api.templates.delinquency_7.button")
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("cloud_7_day_arrears", data)
 	if err != nil {
@@ -1085,7 +1085,7 @@ func (es *Service) SendDelinquencyEmail14(email, locale, siteURL, planName strin
 	data.Props["Button"] = T("api.templates.delinquency_14.button")
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("cloud_14_day_arrears", data)
 	if err != nil {
@@ -1115,7 +1115,7 @@ func (es *Service) SendDelinquencyEmail30(email, locale, siteURL, planName strin
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 	data.Props["BulletListItems"] = []string{T("api.templates.delinquency_30.bullet.message_history"), T("api.templates.delinquency_30.bullet.files"), T("api.templates.delinquency_30.bullet.cards"), T("api.templates.delinquency_30.bullet.plugins")}
 	data.Props["LimitsDocs"] = T("api.templates.delinquency_30.limits_documentation")
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("cloud_30_day_arrears", data)
 	if err != nil {
@@ -1147,7 +1147,7 @@ func (es *Service) SendDelinquencyEmail45(email, locale, siteURL, planName, deli
 	data.Props["IncludeSecondaryActionButton"] = false
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("cloud_45_day_arrears", data)
 	if err != nil {
@@ -1179,7 +1179,7 @@ func (es *Service) SendDelinquencyEmail60(email, locale, siteURL string) error {
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 	data.Props["IncludeSecondaryActionButton"] = true
 	data.Props["SecondaryActionButtonText"] = T("api.templates.delinquency_60.downgrade_to_free")
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	// 45 day template is the same as the 60 day one so its reused
 	body, err := es.templatesContainer.RenderToString("cloud_45_day_arrears", data)
@@ -1212,7 +1212,7 @@ func (es *Service) SendDelinquencyEmail75(email, locale, siteURL, planName, deli
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 	data.Props["IncludeSecondaryActionButton"] = true
 	data.Props["SecondaryActionButtonText"] = T("api.templates.delinquency_75.downgrade_to_free")
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	// 45 day template is the same as the 75 day one so its reused
 	body, err := es.templatesContainer.RenderToString("cloud_45_day_arrears", data)
@@ -1245,7 +1245,7 @@ func (es *Service) SendDelinquencyEmail90(email, locale, siteURL string) error {
 	data.Props["EmailUs"] = T("api.templates.email_us_anytime_at")
 	data.Props["IncludeSecondaryActionButton"] = true
 	data.Props["SecondaryActionButtonText"] = T("api.templates.delinquency_90.secondary_action_button")
-	data.Props["Footer"] = T("api.templates.copyright")
+	data.Props["Footer"] = "© 2023 JurisLive, 38 rue de Liège, 75008 PARIS"
 
 	body, err := es.templatesContainer.RenderToString("cloud_90_day_arrears", data)
 	if err != nil {
